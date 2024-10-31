@@ -1,0 +1,22 @@
+.first-div
+{
+width: 500px;
+height: 210px;
+background-color: aquamarine;
+border-width: 3px;
+border-style: solid;
+border-color: aqua;
+border-radius: 15%;
+margin: 10px;
+padding: 5px;
+
+}
+
+.normal-para
+{
+    color: chartreuse;
+}
+#fav-para
+{
+    color: cadetblue;
+}
